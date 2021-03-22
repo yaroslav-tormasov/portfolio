@@ -12,9 +12,6 @@ function Skills() {
                     <Skill title={"JS"} description={"JS cool"}/>
                     <Skill title={"CSS"} description={"CSS top"}/>
                     <Skill title={"JS"} description={""}/>
-                    <Skill title={"JS"} description={""}/>
-                    <Skill title={"JS"} description={""}/>
-                    <Skill title={"JS"} description={""}/>
                 </div>
             </div>
         </div>
